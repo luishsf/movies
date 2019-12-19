@@ -10,7 +10,7 @@ let routes = [
   // },
   {
     name: 'home',
-    path: '/home',
+    path: '/',
     components: {
       'list-router-view': require('./components/Home.vue')
     }
